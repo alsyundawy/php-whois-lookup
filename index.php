@@ -1,11 +1,4 @@
 <?php
-/*************************************************************************
-php easy :: whois lookup script
-==========================================================================
-Author:      php easy code, www.phpeasycode.com
-Web Site:    http://www.phpeasycode.com
-Contact:     webmaster@phpeasycode.com
-*************************************************************************/
 
 $domain = $_GET['domain'];
 
